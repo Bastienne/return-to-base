@@ -166,18 +166,7 @@ div.one-half:first-child, div.one-third:first-child, div.two-third:first-child, 
 	margin-left:0 !important;
 	clear:left;
 }
-/* 
-.parents {
-	float: right;
 
-  position: relative;
-  left: -50%; 
-}
-
-.parents img {
-	position: relative;
-	left: 50%;
-} */
 .opdrachten img {
 	max-height: 360px;
 	opacity: 0.25;
